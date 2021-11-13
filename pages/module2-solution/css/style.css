@@ -29,6 +29,7 @@ div{
 .div1{
   box-sizing: border-box;
   background-color: lightgray;
+  border: solid black 1px;
   margin: 0px;
   padding: 10px;
   float: left;
